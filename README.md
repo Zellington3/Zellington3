@@ -16,18 +16,17 @@ I'm a Master's student in Computer Science with a Bachelor's degree in the same 
 - 
 <h3 align="center">Connect with me</h3>
 <p align="center">
-  <a href="mailto:zelling3@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" height="40" style="margin-right: 15px;" />
+  <a href="mailto:zelling3@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/zachary-ellington" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" style="margin-right: 15px;" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
   </a>
   <a href="https://github.com/Zellington3" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="40" style="margin-right: 15px;" />
+    <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
   </a>
-  <a href="https://github.com/Zellington3/Zellington3/blob/main/Zach_Ellington_Resume.pdf" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/readthedocs/readthedocs-original.svg" alt="Resume" height="40" />
-  </a>
+</p>
+
 </p>
 
 
