@@ -1,11 +1,11 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=Zellington3&label=Profile%20views&color=0e75b6&style=flat" alt="Zellington3" /> </p>
 
-<table style="border: none; width: 100%; border-collapse: collapse;">
+<table style="width: 100%; border: 0;">
   <tr>
-    <td style="text-align: left; vertical-align: middle; border: none;">
+    <td style="text-align: left; vertical-align: middle; border: none; padding: 0;">
       <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" alt="Animated GIF" width="200" />
     </td>
-    <td style="text-align: right; vertical-align: middle; border: none;">
+    <td style="text-align: right; vertical-align: middle; border: none; padding: 0;">
       <h1>
         <a href="https://github.com/DenverCoder1/readme-typing-svg">
           <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=45&center=true&vCenter=true&width=600&height=80&duration=4000&color=45447C&lines=Hello+%F0%9F%8C%8E!;+I'm+Zach+Ellington!" />
@@ -14,6 +14,7 @@
     </td>
   </tr>
 </table>
+
 
 
 
