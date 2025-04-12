@@ -33,7 +33,7 @@ I'm a Master's student in Computer Science with a Bachelor's degree in the same 
 
 ------
 <h3 align="center">Languages and Tools:</h3>
-<table>
+<table align="left">
   <tr>
     <td style="font-weight: bold;">Languages & Libraries:</td>
     <td><img height="40" src="https://skillicons.dev/icons?i=python,js,html,css,shell,sql,numpy,matplotlib" alt="Languages & Libraries" /></td>
