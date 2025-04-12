@@ -13,20 +13,26 @@ I'm a Master's student in Computer Science with a Bachelor's degree in the same 
 - 🌱 Currently diving deeper into system-level scripting and cloud deployments.
 - 💬 Ask me about **Python, JavaScript, HTML, CSS, Flask, React, SQL, Arch Linux, Shell scripting, and data visualization (matplotlib, numpy)**.
 - ⚡ Fun fact: I’m running on Arch btw. 😎
-- 📄 [View My Resume](https://github.com/Zellington3/Zellington3/blob/main/Zach_Ellington_Resume.pdf)
-  
-<h3 align="center">Connect with me</h3>
+- 
+<h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="mailto:zelling3@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" style="margin: 0 12px; display: inline-block;" alt="Email" />
+  <a href="mailto:your.email@domain.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
   </a>
-  <a href="https://www.linkedin.com/in/zachary-ellington001">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" style="margin: 0 12px; display: inline-block;" alt="LinkedIn" />
+  &nbsp;
+  <a href="https://www.linkedin.com/in/your-linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
+  &nbsp;
   <a href="https://github.com/Zellington3">
-    <img src="https://skillicons.dev/icons?i=github" height="40" style="margin: 0 12px; display: inline-block;" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Zellington3/Zellington3/blob/main/Zach_Ellington_Resume.pdf">
+    <img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Resume Badge" />
   </a>
 </p>
+
 
 
 ------
