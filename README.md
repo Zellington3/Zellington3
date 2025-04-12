@@ -32,9 +32,11 @@ I'm a Master's student in Computer Science with a Bachelor's degree in the same 
 
 
 ------
-<h3 align="left">Activity:</h3>
+<h3 align="center">GitHub Activity 🐍</h3>
 
-[![Zellington3's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Zellington3&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  <img src="https://github.com/Zellington3/Zellington3/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
 
 <p align="center">
   <a href="https://github.com/Zellington3">
