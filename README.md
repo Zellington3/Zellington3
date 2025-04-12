@@ -25,6 +25,7 @@ I'm a Master's student in Computer Science with a Bachelor's degree in the same 
 
 
 ------
+
 <h3 align="center">GitHub Activity 🐍:</h3>
 
 <p align="center">
@@ -42,7 +43,9 @@ I'm a Master's student in Computer Science with a Bachelor's degree in the same 
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zellington3&&theme=tokyonight" alt="Zellington3" />
   </a>
 </p>
+
 ------
+
 <h3 align="center">Languages and Tools 🛠️:</h3>
 
 <div align="center">
