@@ -58,16 +58,24 @@
 </p>
 
 ------
-
 <h3 align="center">Languages and Tools 🛠️:</h3>
 
 <div align="center">
   <table cellspacing="10" cellpadding="4">
     <tr>
-      <td align="right" style="font-weight: bold;">Languages & Libraries:</td>
-      <td align="left">
+      <!-- Languages & Tools Section -->
+      <td align="right" style="font-weight: bold; width: 50%;">Languages & Libraries:</td>
+      <td align="left" style="width: 50%;">
         <div style="text-align: left;">
           <img height="40" src="https://skillicons.dev/icons?i=python,js,html,css,java" alt="Languages & Libraries" />
+        </div>
+      </td>
+      <td align="right" style="font-weight: bold; width: 50%;">Tech I'm Currently Learning:</td>
+      <td align="left" style="width: 50%;">
+        <div style="text-align: left;">
+          <img height="40" src="https://img.shields.io/badge/Learning-TensorFlow-orange" alt="TensorFlow" />
+          <img height="40" src="https://img.shields.io/badge/Learning-Docker-blue" alt="Docker" />
+          <img height="40" src="https://img.shields.io/badge/Learning-GraphQL-pink" alt="GraphQL" />
         </div>
       </td>
     </tr>
@@ -95,8 +103,7 @@
         </div>
       </td>
     </tr>
-    <tr>
-      <td align="right" style="font-weight: bold;">Operating Systems:</td>
+    <tr>      <td align="right" style="font-weight: bold;">Operating Systems:</td>
       <td align="left">
         <div style="text-align: left;">
           <img height="40" src="https://skillicons.dev/icons?i=arch,ubuntu,windows" alt="Operating Systems" />
@@ -105,5 +112,7 @@
     </tr>
   </table>
 </div>
+
+
 
 
