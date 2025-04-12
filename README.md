@@ -38,8 +38,9 @@
 ------
 <h3 align="center">Languages and Tools 🛠️:</h3>
 
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 20px;">
-  <div style="flex: 1; min-width: 250px;">
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 30px;">
+
+  <div style="flex: 1; min-width: 300px;">
     <div style="margin-bottom: 10px;">
       <h4 style="font-weight: bold;">Languages & Libraries:</h4>
       <div style="display: flex; flex-wrap: wrap; gap: 15px;">
@@ -71,7 +72,7 @@
       </div>
     </div>
   </div>
-  <div style="flex: 1; min-width: 250px;">
+  <div style="flex: 1; min-width: 300px;">
     <div style="margin-bottom: 10px;">
       <h4 style="font-weight: bold;">Tech I'm Currently Learning:</h4>
       <div style="display: flex; flex-wrap: wrap; gap: 15px;">
@@ -81,6 +82,7 @@
   </div>
 
 </div>
+
 
 
 
