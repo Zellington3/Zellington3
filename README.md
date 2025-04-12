@@ -97,7 +97,7 @@ Let me know if you want to tweak the tone further!
       <td align="right" style="font-weight: bold;">Currently Learning:</td>
       <td align="left">
         <div style="text-align: left;">
-          <img height="50" src="https://skillicons.dev/icons?i=neo4j,scikit-learn,tensorflow" alt="Currently Learning" />
+          <img height="50" src="https://skillicons.dev/icons?i=scikit-learn,neo4j,tensorflow" alt="Currently Learning" />
         </div>
       </td>
     </tr>
