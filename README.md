@@ -3,7 +3,9 @@
 </p>
 
 <h1 align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=45&center=true&vCenter=true&width=600&height=80&duration=4000&color=45447C&lines=Hello+%F0%9F%8C%8E!;+I'm+Zach+Ellington!" /></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Rubik+Glitch&size=45&center=true&vCenter=true&width=600&height=80&duration=4000&color=45447C&lines=Hello+%F0%9F%8C%8E!;+I'm+Zach+Ellington!" />
+  </a>
 </h1>
 
 <p>
