@@ -34,32 +34,49 @@ I'm a Master's student in Computer Science with a Bachelor's degree in the same 
 ------
 <h3 align="center">Languages and Tools:</h3>
 
-<!-- Center the table -->
 <div align="center">
-
-<!-- Use inline CSS to align icons left inside cells -->
-<table cellspacing="10" cellpadding="4">
-  <tr>
-    <td align="right" style="font-weight: bold;">Languages & Libraries:</td>
-    <td align="left"><div style="text-align: left;"><img height="40" src="https://skillicons.dev/icons?i=python,js,html,css,shell,sql,numpy,matplotlib,java" alt="Languages & Libraries" /></div></td>
-  </tr>
-  <tr>
-    <td align="right" style="font-weight: bold;">Frontend:</td>
-    <td align="left"><div style="text-align: left;"><img height="40" src="https://skillicons.dev/icons?i=react,bootstrap,threejs" alt="Frontend" /></div></td>
-  </tr>
-  <tr>
-    <td align="right" style="font-weight: bold;">Backend:</td>
-    <td align="left"><div style="text-align: left;"><img height="40" src="https://skillicons.dev/icons?i=flask,nodejs,postgresql" alt="Backend" /></div></td>
-  </tr>
-  <tr>
-    <td align="right" style="font-weight: bold;">Tools & Platforms:</td>
-    <td align="left"><div style="text-align: left;"><img height="40" src="https://skillicons.dev/icons?i=linux,bash,github,vscode,git,gcp" alt="Tools & Platforms" /></div></td>
-  </tr>
-  <tr>
-    <td align="right" style="font-weight: bold;">Operating Systems:</td>
-    <td align="left"><div style="text-align: left;"><img height="40" src="https://skillicons.dev/icons?i=arch,ubuntu,windows" alt="Operating Systems" /></div></td>
-  </tr>
-</table>
-
+  <table cellspacing="10" cellpadding="4">
+    <tr>
+      <td align="right" style="font-weight: bold;">Languages & Libraries:</td>
+      <td align="left">
+        <div style="text-align: left;">
+          <img height="40" src="https://skillicons.dev/icons?i=python,js,html,css,java" alt="Languages & Libraries" />
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td align="right" style="font-weight: bold;">Frontend:</td>
+      <td align="left">
+        <div style="text-align: left;">
+          <img height="40" src="https://skillicons.dev/icons?i=react,bootstrap,threejs" alt="Frontend" />
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td align="right" style="font-weight: bold;">Backend:</td>
+      <td align="left">
+        <div style="text-align: left;">
+          <img height="40" src="https://skillicons.dev/icons?i=flask,nodejs,postgresql" alt="Backend" />
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td align="right" style="font-weight: bold;">Tools & Platforms:</td>
+      <td align="left">
+        <div style="text-align: left;">
+          <img height="40" src="https://skillicons.dev/icons?i=linux,bash,github,vscode,git,gcp" alt="Tools & Platforms" />
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td align="right" style="font-weight: bold;">Operating Systems:</td>
+      <td align="left">
+        <div style="text-align: left;">
+          <img height="40" src="https://skillicons.dev/icons?i=arch,ubuntu,windows" alt="Operating Systems" />
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
+
 
