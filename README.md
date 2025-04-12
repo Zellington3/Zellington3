@@ -36,7 +36,6 @@
 </p>
 
 ------
-
 <h3 align="center">Languages and Tools 🛠️:</h3>
 
 <div align="center">
@@ -81,8 +80,17 @@
         </div>
       </td>
     </tr>
+    <tr>
+      <td align="right" style="font-weight: bold;">Currently Learning:</td>
+      <td align="left">
+        <div style="text-align: left;">
+          <img height="40" src="https://skillicons.dev/icons?i=neo4j,scikit-learn,tensorflow" alt="Currently Learning" />
+        </div>
+      </td>
+    </tr>
   </table>
 </div>
+
 
 
 
