@@ -36,14 +36,15 @@ Let me know if you want to tweak the tone further!
 <p align="center" style="margin: 20px 0;">&nbsp;</p>
 
 <p align="center">
-  <a href="https://github.com/Zellington3" style="text-decoration: none; outline: none; border: none;">
+  <a href="https://github.com/Zellington3" style="text-decoration: none; outline: none; border: none; user-select: none;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zellington3&&theme=tokyonight" alt="Zellington3" />
   </a>
-  
-  <a href="#" style="text-decoration: none; outline: none; border: none;">
+
+  <a href="#" style="text-decoration: none; outline: none; border: none; user-select: none;">
     <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" alt="Your GIF" style="width: 80%; height: auto;" />
   </a>
 </p>
+
 
 
 ------
