@@ -1,4 +1,4 @@
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+Can you help me change this readme to include animated icons from https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub?tab=readme-ov-file instead of the ones I have. : <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=Zellington3&label=Profile%20views&color=0e75b6&style=flat" alt="Zellington3" /> </p>
 
@@ -11,21 +11,24 @@
 I’m a Master’s student in Computer Science, and I also have a Bachelor’s in the field. I love building creative, efficient tech solutions—whether it’s backend logic, sleek frontend interfaces, or automating workflows on Arch Linux. I enjoy writing clean, user-focused code that brings ideas to life. I’m always learning, exploring, and finding ways to build tools that make everyday tasks simpler and smarter. 🧠
 
 Let me know if you want to tweak the tone further!
-- ![Seedling](https://animated-fluent-emoji.vercel.app/seedling.gif) Currently diving deeper into system-level scripting and cloud deployments.
+- 🌱 Currently diving deeper into system-level scripting and cloud deployments.
+- 💬 Ask me about **Python, JavaScript, HTML, CSS, Flask, React, SQL, Arch Linux, Shell scripting, and data visualization (matplotlib, numpy)**.
+- 😎 I use Arch btw. 
 
-- ![Speech Balloon](https://animated-fluent-emoji.vercel.app/speech_balloon.gif) Ask me about **Python, JavaScript, HTML, CSS, Flask, React, SQL, Arch Linux, Shell scripting, and data visualization (matplotlib, numpy)**.
-
-- ![Smiling Face with Sunglasses](https://animated-fluent-emoji.vercel.app/smiling_face_with_sunglasses.gif) I use Arch BTW
-
+  
 <h3 align="center">Connect with me 🔗:</h3>
 <p align="center">
   <a href="mailto:zelling3@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email Badge" style="margin:0 10px;" /></a>
   <a href="https://www.linkedin.com/in/zachary-ellington001"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge" style="margin:0 10px;" /></a>
   <a href="https://github.com/Zellington3"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub Badge" style="margin:0 10px;" /></a>
-  <a href="https://raw.githubusercontent.com/Zellington3/Zellington3/main/Zachary_Ellington_Resume.pdf">
-    <img src="https://img.shields.io/badge/Resume-4CAF50?style=flat&logo=read-the-docs&logoColor=white" alt="Resume Badge" style="margin:0 10px;" />
-  </a>
+<a href="https://raw.githubusercontent.com/Zellington3/Zellington3/main/Zachary_Ellington_Resume.pdf">
+  <img src="https://img.shields.io/badge/Resume-4CAF50?style=flat&logo=read-the-docs&logoColor=white" alt="Resume Badge" style="margin:0 10px;" />
+</a>
+
+
 </p>
+
+
 
 ------
 
@@ -55,11 +58,7 @@ Let me know if you want to tweak the tone further!
       <td align="right" style="font-weight: bold;">Languages & Libraries:</td>
       <td align="left">
         <div style="text-align: left;">
-          <img height="40" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/icons/python.gif?raw=true" alt="Python" />
-          <img height="40" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/icons/javascript.gif?raw=true" alt="JavaScript" />
-          <img height="40" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/icons/html.gif?raw=true" alt="HTML" />
-          <img height="40" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/icons/css.gif?raw=true" alt="CSS" />
-          <img height="40" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/icons/java.gif?raw=true" alt="Java" />
+          <img height="40" src="https://skillicons.dev/icons?i=python,js,html,css,java" alt="Languages & Libraries" />
         </div>
       </td>
     </tr>
@@ -67,9 +66,7 @@ Let me know if you want to tweak the tone further!
       <td align="right" style="font-weight: bold;">Frontend:</td>
       <td align="left">
         <div style="text-align: left;">
-          <img height="40" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/icons/react.gif?raw=true" alt="React" />
-          <img height="40" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/icons/bootstrap.gif?raw=true" alt="Bootstrap" />
-          <img height="40" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/icons/threejs.gif?raw=true" alt="Three.js" />
+          <img height="40" src="https://skillicons.dev/icons?i=react,bootstrap,threejs" alt="Frontend" />
         </div>
       </td>
     </tr>
@@ -77,9 +74,7 @@ Let me know if you want to tweak the tone further!
       <td align="right" style="font-weight: bold;">Backend:</td>
       <td align="left">
         <div style="text-align: left;">
-          <img height="40" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/icons/flask.gif?raw=true" alt="Flask" />
-          <img height="40" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/icons/nodejs.gif?raw=true" alt="Node.js" />
-          <img height="40" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/icons/postgresql.gif?raw=true" alt="PostgreSQL" />
+          <img height="40" src="https://skillicons.dev/icons?i=flask,nodejs,postgresql" alt="Backend" />
         </div>
       </td>
     </tr>
@@ -87,12 +82,7 @@ Let me know if you want to tweak the tone further!
       <td align="right" style="font-weight: bold;">Tools & Platforms:</td>
       <td align="left">
         <div style="text-align: left;">
-          <img height="40" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/icons/linux.gif?raw=true" alt="Linux" />
-          <img height="40" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/icons/bash.gif?raw=true" alt="Bash" />
-          <img height="40" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/icons/github.gif?raw=true" alt="GitHub" />
-          <img height="40" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/icons/vscode.gif?raw=true" alt="VSCode" />
-          <img height="40" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/icons/git.gif?raw=true" alt="Git" />
-          <img height="40" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/icons/gcp.gif?raw=true" alt="GCP" />
+          <img height="40" src="https://skillicons.dev/icons?i=linux,bash,github,vscode,git,gcp" alt="Tools & Platforms" />
         </div>
       </td>
     </tr>
@@ -100,9 +90,7 @@ Let me know if you want to tweak the tone further!
       <td align="right" style="font-weight: bold;">Operating Systems:</td>
       <td align="left">
         <div style="text-align: left;">
-          <img height="40" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/icons/arch.gif?raw=true" alt="Arch" />
-          <img height="40" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/icons/ubuntu.gif?raw=true" alt="Ubuntu" />
-          <img height="40" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/icons/windows.gif?raw=true" alt="Windows" />
+          <img height="40" src="https://skillicons.dev/icons?i=arch,ubuntu,windows" alt="Operating Systems" />
         </div>
       </td>
     </tr>
