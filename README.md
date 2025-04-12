@@ -35,6 +35,8 @@ I'm a Master's student in Computer Science with a Bachelor's degree in the same 
   </picture>
 </p>
 
+<p align="center" style="margin: 20px 0;">&nbsp;</p>
+
 <p align="center">
   <a href="https://github.com/Zellington3">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zellington3&&theme=tokyonight" alt="Zellington3" />
