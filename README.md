@@ -19,7 +19,7 @@
 </ul>
 
 <h3 align="center">Connect with me 🔗:</h3>
-<p align="center">
+<div align="center">
   <a href="mailto:zelling3@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email Badge" style="margin:0 10px;" />
   </a>
@@ -32,21 +32,21 @@
   <a href="https://raw.githubusercontent.com/Zellington3/Zellington3/main/Zachary_Ellington_Resume.pdf">
     <img src="https://img.shields.io/badge/Resume-4CAF50?style=flat&logo=read-the-docs&logoColor=white" alt="Resume Badge" style="margin:0 10px;" />
   </a>
-</p>
+</div>
 
 ------
 
-<p align="center">
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zellington3/Zellington3/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zellington3/Zellington3/output/github-contribution-grid-snake.svg" />
     <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/Zellington3/Zellington3/output/github-contribution-grid-snake.svg" />
   </picture>
-</p>
+</div>
 
-<p align="center" style="margin: 20px 0;">&nbsp;</p>
+<div align="center" style="margin: 20px 0;">&nbsp;</div>
 
-<p align="center">
+<div align="center">
   <a href="https://github.com/Zellington3" style="text-decoration: none; outline: none; border: none; user-select: none;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zellington3&&theme=tokyonight" alt="Zellington3" />
   </a>
@@ -54,7 +54,7 @@
   <a href="#" style="text-decoration: none; outline: none; border: none; user-select: none;">
     <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" alt="Your GIF" style="width: 80%; height: auto;" />
   </a>
-</p>
+</div>
 
 ------
 
@@ -100,6 +100,7 @@
     </tr>
   </table>
 </div>
+
 
 
 
