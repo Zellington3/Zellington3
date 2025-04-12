@@ -6,13 +6,14 @@
     <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" alt="Animated GIF" width="200" />
   </div>
 
-  <!-- Right section with the name -->
+  <!-- Right section with the animated text -->
   <div style="flex: 1; text-align: right; padding: 0;">
-    <h1 style="font-family: 'Orbitron', sans-serif; font-size: 3rem; color: #8a2be2;">
-      I'm Zach Ellington
-    </h1>
+    <a href="https://github.com/DenverCoder1/readme-typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=45&center=true&vCenter=true&width=600&height=80&duration=4000&color=45447C&lines=Hello+%F0%9F%8C%8E!;+I'm+Zach+Ellington!" />
+    </a>
   </div>
 </div>
+
 
 I’m a Master’s student in Computer Science, and I also have a Bachelor’s in the field. I love building creative, efficient tech solutions—whether it’s backend logic, sleek frontend interfaces, or automating workflows on Arch Linux. I enjoy writing clean, user-focused code that brings ideas to life. I’m always learning, exploring, and finding ways to build tools that make everyday tasks simpler and smarter. 🧠
 
