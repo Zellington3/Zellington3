@@ -25,12 +25,6 @@ I'm a Master's student in Computer Science with a Bachelor's degree in the same 
 
 [![Zellington3's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Zellington3&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<div align="center">
-  <a href="https://github.com/Zellington3">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Zellington3&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Zellington3"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zellington3&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Zellington3"/>
-  </a>
-</div>
 <p align="center">
   <a href="https://github.com/Zellington3">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zellington3&&theme=tokyonight" alt="Zellington3" />
