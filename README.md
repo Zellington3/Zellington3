@@ -40,7 +40,7 @@
 <div align="center">
   <a href="https://github.com/Zellington3"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Zellington3&&theme=tokyonight" alt="Zellington3" /></a>
   <br/>
-  <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" alt="Your GIF" width="80%" />
+  <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" alt="Your GIF" width="400" />
 </div>
 
 ------
