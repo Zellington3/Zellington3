@@ -48,10 +48,10 @@ I'm a Master's student in Computer Science with a Bachelor's degree in the same 
   </tr>
   <tr>
     <td style="font-weight: bold;">Tools & Platforms:</td>
-    <td><img height="40" src="https://skillicons.dev/icons?i=linux,bash,github,shopify,vscode" alt="Tools & Platforms" /></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=linux,bash,github,vscode" alt="Tools & Platforms" /></td>
   </tr>
   <tr>
     <td style="font-weight: bold;">Operating Systems:</td>
-    <td><img height="40" src="https://skillicons.dev/icons?i=archlinux,ubuntu,windows" alt="Operating Systems" /></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=arch,ubuntu,windows" alt="Operating Systems" /></td>
   </tr>
 </table>
