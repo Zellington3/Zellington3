@@ -11,11 +11,11 @@
 I’m a Master’s student in Computer Science, and I also have a Bachelor’s in the field. I love building creative, efficient tech solutions—whether it’s backend logic, sleek frontend interfaces, or automating workflows on Arch Linux. I enjoy writing clean, user-focused code that brings ideas to life. I’m always learning, exploring, and finding ways to build tools that make everyday tasks simpler and smarter. 🧠
 
 Let me know if you want to tweak the tone further!
-- <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/icons/seedling.gif?raw=true" height="40" alt="Seedling" /> Currently diving deeper into system-level scripting and cloud deployments.
+- ![Seedling](https://animated-fluent-emoji.vercel.app/seedling.gif) Currently diving deeper into system-level scripting and cloud deployments.
 
-- <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/icons/speech_bubble.gif?raw=true" height="40" alt="Speech Bubble" /> Ask me about **Python, JavaScript, HTML, CSS, Flask, React, SQL, Arch Linux, Shell scripting, and data visualization (matplotlib, numpy)**.
+- ![Speech Balloon](https://animated-fluent-emoji.vercel.app/speech_balloon.gif) Ask me about **Python, JavaScript, HTML, CSS, Flask, React, SQL, Arch Linux, Shell scripting, and data visualization (matplotlib, numpy)**.
 
-- <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/blob/main/icons/sunglasses.gif?raw=true" height="40" alt="Sunglasses" /> 
+- ![Smiling Face with Sunglasses](https://animated-fluent-emoji.vercel.app/smiling_face_with_sunglasses.gif) I use Arch BTW
 
 <h3 align="center">Connect with me 🔗:</h3>
 <p align="center">
