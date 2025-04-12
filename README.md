@@ -1,4 +1,6 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=Zellington3&label=Profile%20views&color=0e75b6&style=flat" alt="Zellington3" /> </p>
+<p align="right"> 
+  <img src="https://komarev.com/ghpvc/?username=Zellington3&label=Profile%20views&color=0e75b6&style=flat" alt="Zellington3" />
+</p>
 
 <h1 align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -6,18 +8,27 @@
   </a>
 </h1>
 
- I’m a Master’s student in Computer Science, and I also have a Bachelor’s in the field. I love building creative, efficient tech solutions—whether it’s backend logic, sleek frontend interfaces, or automating workflows on Arch Linux. I enjoy writing clean, user-focused code that brings ideas to life. I’m always learning, exploring, and finding ways to build tools that make everyday tasks simpler and smarter. 🧠
+<p>
+  I’m a Master’s student in Computer Science, and I also have a Bachelor’s in the field. I love building creative, efficient tech solutions—whether it’s backend logic, sleek frontend interfaces, or automating workflows on Arch Linux. I enjoy writing clean, user-focused code that brings ideas to life. I’m always learning, exploring, and finding ways to build tools that make everyday tasks simpler and smarter. 🧠
+</p>
 
-Let me know if you want to tweak the tone further!
-- 🌱 Currently diving deeper into system-level scripting and cloud deployments.
-- 💬 Ask me about **Python, JavaScript, HTML, CSS, Flask, React, SQL, Arch Linux, Shell scripting, and data visualization (matplotlib, numpy)**.
-- 😎 I use Arch btw. 
+<ul>
+  <li>🌱 Currently diving deeper into system-level scripting and cloud deployments.</li>
+  <li>💬 Ask me about <strong>Python, JavaScript, HTML, CSS, Flask, React, SQL, Arch Linux, Shell scripting, and data visualization (matplotlib, numpy)</strong>.</li>
+  <li>😎 I use Arch btw.</li>
+</ul>
 
 <h3 align="center">Connect with me 🔗:</h3>
 <p align="center">
-  <a href="mailto:zelling3@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email Badge" style="margin:0 10px;" /></a>
-  <a href="https://www.linkedin.com/in/zachary-ellington001"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge" style="margin:0 10px;" /></a>
-  <a href="https://github.com/Zellington3"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub Badge" style="margin:0 10px;" /></a>
+  <a href="mailto:zelling3@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email Badge" style="margin:0 10px;" />
+  </a>
+  <a href="https://www.linkedin.com/in/zachary-ellington001">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge" style="margin:0 10px;" />
+  </a>
+  <a href="https://github.com/Zellington3">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub Badge" style="margin:0 10px;" />
+  </a>
   <a href="https://raw.githubusercontent.com/Zellington3/Zellington3/main/Zachary_Ellington_Resume.pdf">
     <img src="https://img.shields.io/badge/Resume-4CAF50?style=flat&logo=read-the-docs&logoColor=white" alt="Resume Badge" style="margin:0 10px;" />
   </a>
@@ -45,8 +56,6 @@ Let me know if you want to tweak the tone further!
   </a>
 </p>
 
-
-
 ------
 
 <h3 align="center">Languages and Tools 🛠️:</h3>
@@ -56,53 +65,42 @@ Let me know if you want to tweak the tone further!
     <tr>
       <td align="right" style="font-weight: bold;">Languages & Libraries:</td>
       <td align="left">
-        <div style="text-align: left;">
-          <img height="50" src="https://skillicons.dev/icons?i=python,js,html,css,java" alt="Languages & Libraries" />
-        </div>
+        <img height="50" src="https://skillicons.dev/icons?i=python,js,html,css,java" alt="Languages & Libraries" />
       </td>
     </tr>
     <tr>
       <td align="right" style="font-weight: bold;">Frontend:</td>
       <td align="left">
-        <div style="text-align: left;">
-          <img height="50" src="https://skillicons.dev/icons?i=react,bootstrap,threejs" alt="Frontend" />
-        </div>
+        <img height="50" src="https://skillicons.dev/icons?i=react,bootstrap,threejs" alt="Frontend" />
       </td>
     </tr>
     <tr>
       <td align="right" style="font-weight: bold;">Backend:</td>
       <td align="left">
-        <div style="text-align: left;">
-          <img height="50" src="https://skillicons.dev/icons?i=flask,nodejs,postgresql" alt="Backend" />
-        </div>
+        <img height="50" src="https://skillicons.dev/icons?i=flask,nodejs,postgresql" alt="Backend" />
       </td>
     </tr>
     <tr>
       <td align="right" style="font-weight: bold;">Tools & Platforms:</td>
       <td align="left">
-        <div style="text-align: left;">
-          <img height="50" src="https://skillicons.dev/icons?i=linux,bash,github,vscode,git,gcp" alt="Tools & Platforms" />
-        </div>
+        <img height="50" src="https://skillicons.dev/icons?i=linux,bash,github,vscode,git,gcp" alt="Tools & Platforms" />
       </td>
     </tr>
     <tr>
       <td align="right" style="font-weight: bold;">Operating Systems:</td>
       <td align="left">
-        <div style="text-align: left;">
-          <img height="50" src="https://skillicons.dev/icons?i=arch,ubuntu,windows" alt="Operating Systems" />
-        </div>
+        <img height="50" src="https://skillicons.dev/icons?i=arch,ubuntu,windows" alt="Operating Systems" />
       </td>
     </tr>
     <tr>
       <td align="right" style="font-weight: bold;">Currently Learning:</td>
       <td align="left">
-        <div style="text-align: left;">
-         <img height="50" src="https://skillicons.dev/icons?i=sklearn,tensorflow" alt="Currently Learning" />
-        </div>
+        <img height="50" src="https://skillicons.dev/icons?i=sklearn,tensorflow" alt="Currently Learning" />
       </td>
     </tr>
   </table>
 </div>
+
 
 
 
