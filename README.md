@@ -26,8 +26,6 @@ I'm a Master's student in Computer Science with a Bachelor's degree in the same 
 
 ------
 
-<h3 align="center">GitHub Activity 🐍:</h3>
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zellington3/Zellington3/output/github-contribution-grid-snake-dark.svg" />
