@@ -36,40 +36,53 @@
 </p>
 
 ------
-<h3 align="center">Languages and Tools 🛠️:</h3>
-<table style="width: 100%; table-layout: fixed;">
-  <tr>
-    <td style="width: 50%; padding-right: 20px;">
-      <h4 style="font-weight: bold;">Languages & Libraries:</h4>
-      <div>
-        <img height="40" src="https://skillicons.dev/icons?i=python,js,html,css,java" alt="Languages & Libraries" />
-      </div>
-      <h4 style="font-weight: bold;">Frontend:</h4>
-      <div>
-        <img height="40" src="https://skillicons.dev/icons?i=react,bootstrap,threejs" alt="Frontend" />
-      </div>
-      <h4 style="font-weight: bold;">Backend:</h4>
-      <div>
-        <img height="40" src="https://skillicons.dev/icons?i=flask,nodejs,postgresql" alt="Backend" />
-      </div>
-      <h4 style="font-weight: bold;">Tools & Platforms:</h4>
-      <div>
-        <img height="40" src="https://skillicons.dev/icons?i=linux,bash,github,vscode,git,gcp" alt="Tools & Platforms" />
-      </div>
-      <h4 style="font-weight: bold;">Operating Systems:</h4>
-      <div>
-        <img height="40" src="https://skillicons.dev/icons?i=arch,ubuntu,windows" alt="Operating Systems" />
-      </div>
-    </td>
-    <td style="width: 50%; padding-left: 20px;">
-      <h4 style="font-weight: bold;">Tech I'm Currently Learning:</h4>
-      <div>
-        <img height="40" src="https://skillicons.dev/icons?i=tensorflow,docker,graphql" alt="Tech I'm Currently Learning" />
-      </div>
-    </td>
-  </tr>
-</table>
 
+<h3 align="center">Languages and Tools 🛠️:</h3>
+
+<div align="center">
+  <table cellspacing="10" cellpadding="4">
+    <tr>
+      <td align="right" style="font-weight: bold;">Languages & Libraries:</td>
+      <td align="left">
+        <div style="text-align: left;">
+          <img height="40" src="https://skillicons.dev/icons?i=python,js,html,css,java" alt="Languages & Libraries" />
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td align="right" style="font-weight: bold;">Frontend:</td>
+      <td align="left">
+        <div style="text-align: left;">
+          <img height="40" src="https://skillicons.dev/icons?i=react,bootstrap,threejs" alt="Frontend" />
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td align="right" style="font-weight: bold;">Backend:</td>
+      <td align="left">
+        <div style="text-align: left;">
+          <img height="40" src="https://skillicons.dev/icons?i=flask,nodejs,postgresql" alt="Backend" />
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td align="right" style="font-weight: bold;">Tools & Platforms:</td>
+      <td align="left">
+        <div style="text-align: left;">
+          <img height="40" src="https://skillicons.dev/icons?i=linux,bash,github,vscode,git,gcp" alt="Tools & Platforms" />
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td align="right" style="font-weight: bold;">Operating Systems:</td>
+      <td align="left">
+        <div style="text-align: left;">
+          <img height="40" src="https://skillicons.dev/icons?i=arch,ubuntu,windows" alt="Operating Systems" />
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
 
 
 
