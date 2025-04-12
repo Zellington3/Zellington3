@@ -1,5 +1,3 @@
-Can you help me change this readme to include animated icons from https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub?tab=readme-ov-file instead of the ones I have. : <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=Zellington3&label=Profile%20views&color=0e75b6&style=flat" alt="Zellington3" /> </p>
 
 <h1 align="center">
