@@ -8,8 +8,9 @@
   </a>
 </h1>
 
-I'm a Master's student in Computer Science with a Bachelor's degree in the same field. I build creative and efficient tech solutions using a wide range of modern tools and languages. Whether it’s backend logic, frontend magic, or scripting automation on Arch Linux, I enjoy bringing systems to life with clean, user-centered code. I'm passionate about continuous learning, open-source, and building tools that make life easier. 🧠💻
+I’m a Master’s student in Computer Science, and I also have a Bachelor’s in the field. I love building creative, efficient tech solutions—whether it’s backend logic, sleek frontend interfaces, or automating workflows on Arch Linux. I enjoy writing clean, user-focused code that brings ideas to life. I’m always learning, exploring open-source projects, and finding ways to build tools that make everyday tasks simpler and smarter. 🧠
 
+Let me know if you want to tweak the tone further!
 - 🌱 Currently diving deeper into system-level scripting and cloud deployments.
 - 💬 Ask me about **Python, JavaScript, HTML, CSS, Flask, React, SQL, Arch Linux, Shell scripting, and data visualization (matplotlib, numpy)**.
 - I use Arch btw. 😎
