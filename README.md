@@ -37,7 +37,7 @@ I'm a Master's student in Computer Science with a Bachelor's degree in the same 
 <table cellspacing="0" cellpadding="2">
   <tr>
     <td style="font-weight: bold;">Languages & Libraries:</td>
-    <td><img height="40" src="https://skillicons.dev/icons?i=python,js,html,css,shell,sql,numpy,matplotlib,java" alt="Languages & Libraries" /></td>
+    <td style="text-align: left;"><img height="40" src="https://skillicons.dev/icons?i=python,js,html,css,shell,sql,numpy,matplotlib,java" alt="Languages & Libraries" /></td>
   </tr>
   <tr>
     <td style="font-weight: bold;">Frontend:</td>
