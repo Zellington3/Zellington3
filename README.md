@@ -1,6 +1,5 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Zellington3.Zellington3" />
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=Zellington3&label=Profile%20views&color=0e75b6&style=flat" alt="Zellington3" /> </p>
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?
@@ -18,7 +17,7 @@ I'm a Master's student in Computer Science with a Bachelor's degree in the same 
 <p align="left">
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Zellington3&label=Profile%20views&color=0e75b6&style=flat" alt="Zellington3" /> </p>
+
 
 ------
 <h3 align="left">Activity:</h3>
