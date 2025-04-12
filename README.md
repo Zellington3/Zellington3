@@ -57,7 +57,7 @@ Let me know if you want to tweak the tone further!
       <td align="right" style="font-weight: bold;">Languages & Libraries:</td>
       <td align="left">
         <div style="text-align: left;">
-          <img height="40" src="https://skillicons.dev/icons?i=python,js,html,css,java" alt="Languages & Libraries" />
+          <img height="50" src="https://skillicons.dev/icons?i=python,js,html,css,java" alt="Languages & Libraries" />
         </div>
       </td>
     </tr>
@@ -65,7 +65,7 @@ Let me know if you want to tweak the tone further!
       <td align="right" style="font-weight: bold;">Frontend:</td>
       <td align="left">
         <div style="text-align: left;">
-          <img height="40" src="https://skillicons.dev/icons?i=react,bootstrap,threejs" alt="Frontend" />
+          <img height="50" src="https://skillicons.dev/icons?i=react,bootstrap,threejs" alt="Frontend" />
         </div>
       </td>
     </tr>
@@ -73,7 +73,7 @@ Let me know if you want to tweak the tone further!
       <td align="right" style="font-weight: bold;">Backend:</td>
       <td align="left">
         <div style="text-align: left;">
-          <img height="40" src="https://skillicons.dev/icons?i=flask,nodejs,postgresql" alt="Backend" />
+          <img height="50" src="https://skillicons.dev/icons?i=flask,nodejs,postgresql" alt="Backend" />
         </div>
       </td>
     </tr>
@@ -81,7 +81,7 @@ Let me know if you want to tweak the tone further!
       <td align="right" style="font-weight: bold;">Tools & Platforms:</td>
       <td align="left">
         <div style="text-align: left;">
-          <img height="40" src="https://skillicons.dev/icons?i=linux,bash,github,vscode,git,gcp" alt="Tools & Platforms" />
+          <img height="50" src="https://skillicons.dev/icons?i=linux,bash,github,vscode,git,gcp" alt="Tools & Platforms" />
         </div>
       </td>
     </tr>
@@ -89,12 +89,21 @@ Let me know if you want to tweak the tone further!
       <td align="right" style="font-weight: bold;">Operating Systems:</td>
       <td align="left">
         <div style="text-align: left;">
-          <img height="40" src="https://skillicons.dev/icons?i=arch,ubuntu,windows" alt="Operating Systems" />
+          <img height="50" src="https://skillicons.dev/icons?i=arch,ubuntu,windows" alt="Operating Systems" />
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td align="right" style="font-weight: bold;">Currently Learning:</td>
+      <td align="left">
+        <div style="text-align: left;">
+          <img height="50" src="https://skillicons.dev/icons?i=neo4j,scikit-learn,tensorflow" alt="Currently Learning" />
         </div>
       </td>
     </tr>
   </table>
 </div>
+
 
 
 
