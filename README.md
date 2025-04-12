@@ -12,7 +12,7 @@ I'm a Master's student in Computer Science with a Bachelor's degree in the same 
 
 - 🌱 Currently diving deeper into system-level scripting and cloud deployments.
 - 💬 Ask me about **Python, JavaScript, HTML, CSS, Flask, React, SQL, Arch Linux, Shell scripting, and data visualization (matplotlib, numpy)**.
-- ⚡ Fun fact: I’m running on Arch btw. 😎
+- I use Arch btw. 😎
 
   
 <h3 align="center">Connect with me 🔗:</h3>
