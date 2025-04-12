@@ -6,19 +6,21 @@
   </a>
 </h1>
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <div style="flex: 1; padding-right: 20px;">
-    <p>I’m a Master’s student in Computer Science, and I also have a Bachelor’s in the field. I love building creative, efficient tech solutions—whether it’s backend logic, sleek frontend interfaces, or automating workflows on Arch Linux. I enjoy writing clean, user-focused code that brings ideas to life. I’m always learning, exploring, and finding ways to build tools that make everyday tasks simpler and smarter. 🧠</p>
-    <ul>
-      <li>🌱 Currently diving deeper into system-level scripting and cloud deployments.</li>
-      <li>💬 Ask me about <strong>Python, JavaScript, HTML, CSS, Flask, React, SQL, Arch Linux, Shell scripting, and data visualization (matplotlib, numpy)</strong>.</li>
-      <li>😎 I use Arch btw.</li>
-    </ul>
-  </div>
-  <div style="flex: 1; text-align: center;">
-    <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" alt="Your GIF" style="max-width: 100%; height: auto;" />
-  </div>
-</div>
+<table style="width: 100%; border: none;">
+  <tr>
+    <td style="width: 50%; padding-right: 20px;">
+      <p>I’m a Master’s student in Computer Science, and I also have a Bachelor’s in the field. I love building creative, efficient tech solutions—whether it’s backend logic, sleek frontend interfaces, or automating workflows on Arch Linux. I enjoy writing clean, user-focused code that brings ideas to life. I’m always learning, exploring, and finding ways to build tools that make everyday tasks simpler and smarter. 🧠</p>
+      <ul>
+        <li>🌱 Currently diving deeper into system-level scripting and cloud deployments.</li>
+        <li>💬 Ask me about <strong>Python, JavaScript, HTML, CSS, Flask, React, SQL, Arch Linux, Shell scripting, and data visualization (matplotlib, numpy)</strong>.</li>
+        <li>😎 I use Arch btw.</li>
+      </ul>
+    </td>
+    <td style="width: 50%; text-align: center;">
+      <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" alt="Your GIF" style="max-width: 100%; height: auto;" />
+    </td>
+  </tr>
+</table>
 
 <h3 align="center">Connect with me 🔗:</h3>
 <p align="center">
