@@ -98,7 +98,6 @@ Let me know if you want to tweak the tone further!
       <td align="left">
         <div style="text-align: left;">
          <img height="50" src="https://skillicons.dev/icons?,sklearn,tensorflow" alt="Currently Learning" />
-          ![Neo4j](https://techicons.dev/icons/neo4j)
         </div>
       </td>
     </tr>
