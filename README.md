@@ -1,9 +1,10 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=Zellington3&label=Profile%20views&color=0e75b6&style=flat" alt="Zellington3" /> </p>
+
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?
-font=Righteous&size=35&center=true&width=500&height=70&duration=4000&lines=Hello+🌎!;+I'm+Zach+Ellington!;" />
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&width=500&height=70&duration=4000&lines=Hello+%F0%9F%8C%8E!;+I'm+Zach+Ellington!" />
   </a>
 </h1>
 
