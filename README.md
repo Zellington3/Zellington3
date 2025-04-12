@@ -37,86 +37,50 @@
 
 ------
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zellington3/Zellington3/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zellington3/Zellington3/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/Zellington3/Zellington3/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
-
-<p align="center" style="margin: 20px 0;">&nbsp;</p>
-
-<p align="center">
-  <a href="https://github.com/Zellington3" style="text-decoration: none; outline: none; border: none; user-select: none;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zellington3&&theme=tokyonight" alt="Zellington3" />
-  </a>
-
-  <a href="#" style="text-decoration: none; outline: none; border: none; user-select: none;">
-    <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" alt="Your GIF" style="width: 80%; height: auto;" />
-  </a>
-</p>
-
-------
 <h3 align="center">Languages and Tools 🛠️:</h3>
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start; width: 100%;">
+<div style="display: flex; justify-content: space-between; align-items: flex-start; width: 100%; flex-wrap: wrap; gap: 40px;">
 
-  <div style="flex: 1; padding-right: 20px;">
-    <table cellspacing="10" cellpadding="4">
-      <tr>
-        <td align="right" style="font-weight: bold;">Languages & Libraries:</td>
-        <td align="left">
-          <div style="text-align: left;">
-            <img height="40" src="https://skillicons.dev/icons?i=python,js,html,css,java" alt="Languages & Libraries" />
-          </div>
-        </td>
-      </tr>
-      <tr>
-        <td align="right" style="font-weight: bold;">Frontend:</td>
-        <td align="left">
-          <div style="text-align: left;">
-            <img height="40" src="https://skillicons.dev/icons?i=react,bootstrap,threejs" alt="Frontend" />
-          </div>
-        </td>
-      </tr>
-      <tr>
-        <td align="right" style="font-weight: bold;">Backend:</td>
-        <td align="left">
-          <div style="text-align: left;">
-            <img height="40" src="https://skillicons.dev/icons?i=flask,nodejs,postgresql" alt="Backend" />
-          </div>
-        </td>
-      </tr>
-      <tr>
-        <td align="right" style="font-weight: bold;">Tools & Platforms:</td>
-        <td align="left">
-          <div style="text-align: left;">
-            <img height="40" src="https://skillicons.dev/icons?i=linux,bash,github,vscode,git,gcp" alt="Tools & Platforms" />
-          </div>
-        </td>
-      </tr>
-      <tr>
-        <td align="right" style="font-weight: bold;">Operating Systems:</td>
-        <td align="left">
-          <div style="text-align: left;">
-            <img height="40" src="https://skillicons.dev/icons?i=arch,ubuntu,windows" alt="Operating Systems" />
-          </div>
-        </td>
-      </tr>
-    </table>
+  <!-- Languages & Tools Section -->
+  <div style="flex: 1; min-width: 300px;">
+    <div style="margin-bottom: 20px;">
+      <h4 style="font-weight: bold;">Languages & Libraries:</h4>
+      <div>
+        <img height="40" src="https://skillicons.dev/icons?i=python,js,html,css,java" alt="Languages & Libraries" />
+      </div>
+    </div>
+    <div style="margin-bottom: 20px;">
+      <h4 style="font-weight: bold;">Frontend:</h4>
+      <div>
+        <img height="40" src="https://skillicons.dev/icons?i=react,bootstrap,threejs" alt="Frontend" />
+      </div>
+    </div>
+    <div style="margin-bottom: 20px;">
+      <h4 style="font-weight: bold;">Backend:</h4>
+      <div>
+        <img height="40" src="https://skillicons.dev/icons?i=flask,nodejs,postgresql" alt="Backend" />
+      </div>
+    </div>
+    <div style="margin-bottom: 20px;">
+      <h4 style="font-weight: bold;">Tools & Platforms:</h4>
+      <div>
+        <img height="40" src="https://skillicons.dev/icons?i=linux,bash,github,vscode,git,gcp" alt="Tools & Platforms" />
+      </div>
+    </div>
+    <div>
+      <h4 style="font-weight: bold;">Operating Systems:</h4>
+      <div>
+        <img height="40" src="https://skillicons.dev/icons?i=arch,ubuntu,windows" alt="Operating Systems" />
+      </div>
+    </div>
   </div>
-  <div style="flex: 1; padding-left: 20px;">
-    <table cellspacing="10" cellpadding="4">
-      <tr>
-        <td align="right" style="font-weight: bold;">Tech I'm Currently Learning:</td>
-        <td align="left">
-          <div style="text-align: left;">
-            <img height="40" src="https://skillicons.dev/icons?i=tensorflow,docker,graphql" alt="Tech I'm Currently Learning" />
-          </div>
-        </td>
-      </tr>
-    </table>
+  <div style="flex: 1; min-width: 300px;">
+    <div style="margin-bottom: 20px;">
+      <h4 style="font-weight: bold;">Tech I'm Currently Learning:</h4>
+      <div>
+        <img height="40" src="https://skillicons.dev/icons?i=tensorflow,docker,graphql" alt="Tech I'm Currently Learning" />
+      </div>
+    </div>
   </div>
 
 </div>
