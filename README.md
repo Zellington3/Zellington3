@@ -14,7 +14,7 @@ I'm a Master's student in Computer Science with a Bachelor's degree in the same 
 - 💬 Ask me about **Python, JavaScript, HTML, CSS, Flask, React, SQL, Arch Linux, Shell scripting, and data visualization (matplotlib, numpy)**.
 - ⚡ Fun fact: I’m running on Arch btw. 😎
 - 📄 [View My Resume](https://github.com/Zellington3/Zellington3/blob/main/Zach_Ellington_Resume.pdf)
-- 
+  
 <h3 align="center">Connect with me</h3>
 <p align="center">
   <a href="mailto:zelling3@gmail.com">
