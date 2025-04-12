@@ -34,26 +34,26 @@ I'm a Master's student in Computer Science with a Bachelor's degree in the same 
 ------
 <h3 align="center">Languages and Tools:</h3>
 <div align="center">
-<table cellspacing="0" cellpadding="2">
-  <tr>
-    <td style="font-weight: bold;">Languages & Libraries:</td>
-    <td align="left"><img align="left" height="40" src="https://skillicons.dev/icons?i=python,js,html,css,shell,sql,numpy,matplotlib,java" alt="Languages & Libraries" /></td>
-  </tr>
-  <tr>
-    <td style="font-weight: bold;">Frontend:</td>
-    <td><img height="40" src="https://skillicons.dev/icons?i=react,bootstrap,threejs" alt="Frontend" /></td>
-  </tr>
-  <tr>
-    <td style="font-weight: bold;">Backend:</td>
-    <td><img height="40" src="https://skillicons.dev/icons?i=flask,nodejs,postgresql" alt="Backend" /></td>
-  </tr>
-  <tr>
-    <td style="font-weight: bold;">Tools & Platforms:</td>
-    <td><img height="40" src="https://skillicons.dev/icons?i=linux,bash,github,vscode,git,gcp" alt="Tools & Platforms" /></td>
-  </tr>
-  <tr>
-    <td style="font-weight: bold;">Operating Systems:</td>
-    <td><img height="40" src="https://skillicons.dev/icons?i=arch,ubuntu,windows" alt="Operating Systems" /></td>
-  </tr>
-</table>
+  <table cellspacing="10" cellpadding="4" style="text-align: left;">
+    <tr>
+      <td style="font-weight: bold; text-align: right;">Languages & Libraries:</td>
+      <td><img height="40" src="https://skillicons.dev/icons?i=python,js,html,css,shell,sql,numpy,matplotlib,java" alt="Languages & Libraries" /></td>
+    </tr>
+    <tr>
+      <td style="font-weight: bold; text-align: right;">Frontend:</td>
+      <td><img height="40" src="https://skillicons.dev/icons?i=react,bootstrap,threejs" alt="Frontend" /></td>
+    </tr>
+    <tr>
+      <td style="font-weight: bold; text-align: right;">Backend:</td>
+      <td><img height="40" src="https://skillicons.dev/icons?i=flask,nodejs,postgresql" alt="Backend" /></td>
+    </tr>
+    <tr>
+      <td style="font-weight: bold; text-align: right;">Tools & Platforms:</td>
+      <td><img height="40" src="https://skillicons.dev/icons?i=linux,bash,github,vscode,git,gcp" alt="Tools & Platforms" /></td>
+    </tr>
+    <tr>
+      <td style="font-weight: bold; text-align: right;">Operating Systems:</td>
+      <td><img height="40" src="https://skillicons.dev/icons?i=arch,ubuntu,windows" alt="Operating Systems" /></td>
+    </tr>
+  </table>
 </div>
