@@ -19,7 +19,7 @@ I'm a Master's student in Computer Science with a Bachelor's degree in the same 
   <a href="mailto:your.email@domain.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email Badge" style="margin:0 10px;" /></a>
   <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge" style="margin:0 10px;" /></a>
   <a href="https://github.com/Zellington3"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub Badge" style="margin:0 10px;" /></a>
-  <a href="https://github.com/Zellington3/Zellington3/blob/main/Zach_Ellington_Resume.pdf"><img src="https://img.shields.io/badge/Resume-4CAF50?style=flat&logo=read-the-docs&logoColor=white" alt="Resume Badge" style="margin:0 10px;" /></a>
+  <a href="https://github.com/Zellington3/Zellington3/blob/main/Zachary_Ellington_Resume.pdf"><img src="https://img.shields.io/badge/Resume-4CAF50?style=flat&logo=read-the-docs&logoColor=white" alt="Resume Badge" style="margin:0 10px;" /></a>
 </p>
 
 
