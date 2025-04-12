@@ -14,10 +14,21 @@ I'm a Master's student in Computer Science with a Bachelor's degree in the same 
 - 💬 Ask me about **Python, JavaScript, HTML, CSS, Flask, React, SQL, Arch Linux, Shell scripting, and data visualization (matplotlib, numpy)**.
 - ⚡ Fun fact: I’m running on Arch btw. 😎
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me 🔗</h3>
+<p align="center">
+  <a href="mailto:zelling3@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/zachary-ellington" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Zellington3" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://github.com/Zellington3/Zellington3/blob/main/Zach_Ellington_Resume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="Resume" />
+  </a>
 </p>
-
 
 
 ------
