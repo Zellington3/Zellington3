@@ -37,51 +37,39 @@
 
 ------
 <h3 align="center">Languages and Tools 🛠️:</h3>
-
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 30px;">
-
-  <div style="flex: 1; min-width: 300px;">
-    <div style="margin-bottom: 10px;">
+<table style="width: 100%; table-layout: fixed;">
+  <tr>
+    <td style="width: 50%; padding-right: 20px;">
       <h4 style="font-weight: bold;">Languages & Libraries:</h4>
-      <div style="display: flex; flex-wrap: wrap; gap: 15px;">
+      <div>
         <img height="40" src="https://skillicons.dev/icons?i=python,js,html,css,java" alt="Languages & Libraries" />
       </div>
-    </div>
-    <div style="margin-bottom: 10px;">
       <h4 style="font-weight: bold;">Frontend:</h4>
-      <div style="display: flex; flex-wrap: wrap; gap: 15px;">
+      <div>
         <img height="40" src="https://skillicons.dev/icons?i=react,bootstrap,threejs" alt="Frontend" />
       </div>
-    </div>
-    <div style="margin-bottom: 10px;">
       <h4 style="font-weight: bold;">Backend:</h4>
-      <div style="display: flex; flex-wrap: wrap; gap: 15px;">
+      <div>
         <img height="40" src="https://skillicons.dev/icons?i=flask,nodejs,postgresql" alt="Backend" />
       </div>
-    </div>
-    <div style="margin-bottom: 10px;">
       <h4 style="font-weight: bold;">Tools & Platforms:</h4>
-      <div style="display: flex; flex-wrap: wrap; gap: 15px;">
+      <div>
         <img height="40" src="https://skillicons.dev/icons?i=linux,bash,github,vscode,git,gcp" alt="Tools & Platforms" />
       </div>
-    </div>
-    <div>
       <h4 style="font-weight: bold;">Operating Systems:</h4>
-      <div style="display: flex; flex-wrap: wrap; gap: 15px;">
+      <div>
         <img height="40" src="https://skillicons.dev/icons?i=arch,ubuntu,windows" alt="Operating Systems" />
       </div>
-    </div>
-  </div>
-  <div style="flex: 1; min-width: 300px;">
-    <div style="margin-bottom: 10px;">
+    </td>
+    <td style="width: 50%; padding-left: 20px;">
       <h4 style="font-weight: bold;">Tech I'm Currently Learning:</h4>
-      <div style="display: flex; flex-wrap: wrap; gap: 15px;">
+      <div>
         <img height="40" src="https://skillicons.dev/icons?i=tensorflow,docker,graphql" alt="Tech I'm Currently Learning" />
       </div>
-    </div>
-  </div>
+    </td>
+  </tr>
+</table>
 
-</div>
 
 
 
