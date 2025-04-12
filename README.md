@@ -32,7 +32,7 @@ I'm a Master's student in Computer Science with a Bachelor's degree in the same 
 </p>
 
 ------
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools 🛠️:</h3>
 
 <div align="center">
   <table cellspacing="10" cellpadding="4">
