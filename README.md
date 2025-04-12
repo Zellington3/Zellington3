@@ -34,24 +34,24 @@ I'm a Master's student in Computer Science with a Bachelor's degree in the same 
 ------
 <h3 align="left">Languages and Tools:</h3>
 <table>
-    <tr>
-        <td style="font-weight: bold;">Languages & Libraries:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=python,js,html,css,shell,sql,numpy,matplotlib"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=react,bootstrap,threejs"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=flask,nodejs"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold;">Tools & Platforms:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=linux,bash,github,shopify,vscode"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold;">Operating Systems:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=archlinux,ubuntu,windows"/></td>
-    </tr>
+  <tr>
+    <td style="font-weight: bold;">Languages & Libraries:</td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=python,js,html,css,shell,sql,numpy,matplotlib" alt="Languages & Libraries" /></td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;">Frontend:</td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=react,bootstrap,threejs" alt="Frontend" /></td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;">Backend:</td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=flask,nodejs" alt="Backend" /></td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;">Tools & Platforms:</td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=linux,bash,github,shopify,vscode" alt="Tools & Platforms" /></td>
+  </tr>
+  <tr>
+    <td style="font-weight: bold;">Operating Systems:</td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=archlinux,ubuntu,windows" alt="Operating Systems" /></td>
+  </tr>
 </table>
