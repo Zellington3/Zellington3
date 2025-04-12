@@ -17,19 +17,16 @@ I'm a Master's student in Computer Science with a Bachelor's degree in the same 
   
 <h3 align="center">Connect with me</h3>
 <p align="center">
-  <a href="mailto:your.email@domain.com" style="text-decoration: none; margin: 0 15px;">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email" />
+  <a href="mailto:zelling3@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" style="margin: 0 12px; display: inline-block;" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin" style="text-decoration: none; margin: 0 15px;">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/zachary-ellington001">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" style="margin: 0 12px; display: inline-block;" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/Zellington3" style="text-decoration: none; margin: 0 15px;">
-    <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub" />
+  <a href="https://github.com/Zellington3">
+    <img src="https://skillicons.dev/icons?i=github" height="40" style="margin: 0 12px; display: inline-block;" alt="GitHub" />
   </a>
 </p>
-
-
-
 
 
 ------
