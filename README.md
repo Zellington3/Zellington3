@@ -35,7 +35,7 @@ I'm a Master's student in Computer Science with a Bachelor's degree in the same 
 <h3 align="center">GitHub Activity 🐍</h3>
 
 <p align="center">
-  <img src="https://github.com/Zellington3/Zellington3/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/Zellington3/Zellington3/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
 </p>
 
 <p align="center">
