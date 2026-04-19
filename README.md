@@ -14,7 +14,7 @@
 </p>
 
 <ul>
-  <li>🌱 Currently diving deeper into system-level scripting and cloud deployments.</li>
+  <li>🌱 Currently diving deeper into system-level scripting and cloud deployments, and ERP development in Epicor.</li>
   <li>💬 Ask me about <strong>Python, JavaScript, HTML, CSS, Flask, React, SQL, Arch Linux, Shell scripting, and data visualization (matplotlib, numpy)</strong>.</li>
   <li>😎 I use Arch btw.</li>
 </ul>
